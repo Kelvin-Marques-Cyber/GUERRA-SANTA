@@ -1,0 +1,290 @@
+{
+  "id": 2,
+  "title": "O domínio de Diábolo",
+  "subtitle": "O castelo, os novos governantes e as três fortalezas",
+  "edition": "Capítulo II da HQ: continuação da queda narrada no capítulo I. Conferência no PDF La guerra santa, tradução espanhola de Santiago Escuain, páginas físicas 8 a 13, e no original inglês de John Bunyan.",
+  "source": "https://biblehub.com/library/bunyan/the_works_of_john_bunyan_volumes_1-3/the_holy_war.htm",
+  "translation": "Adaptação condensada em português brasileiro, conferida no PDF fornecido pelo usuário e no original inglês em domínio público. Os nomes em PT-BR indicados pelo usuário são a norma editorial desta HQ.",
+  "artDirection": "Use case: illustration-story. One finished LANDSCAPE 4:3 comic plate, richly detailed, high resolution, finely legible Brazilian Portuguese. Match the reference images: nineteenth-century black and white wood engraving, extremely fine crosshatching, monumental Gothic architecture, dramatic chiaroscuro, ivory rectangular narration boxes, black classic book serif lettering, thin black panel borders and pale gutters. Diábolo is ALWAYS the same tall crowned dragon-headed tyrant with bat wings and a black royal cloak from the reference; never a human king. Entendimento is an elderly clean-shaven scholar with shoulder-length white hair, a pale robe and a medallion. Consciência is a different elderly man with a short square gray beard, black fur-collared recorder's robe and a closed law book. Vontade Seja Feita is a stern middle-aged human nobleman with dark shoulder-length hair, a trimmed pointed beard, dark plate armor and a cloak. Mente is his slender clean-shaven middle-aged scribe wearing a dark scholar's cap. No color, no modern cartoon, no manga, no photorealism, no gore, no nudity, no extra narrative events. The captions are narrative condensation, not invented character dialogue. Default layout: four panels read left-to-right then top-to-bottom. IMPORTANT: for pages marked SPLASH, override the default completely: one uninterrupted full-page illustration, no panels, no divisions, with narration boxes over the single scene. The top margin says A GUERRA SANTA · CAPÍTULO II and the exact plate number and title. Keep about 20 percent of each panel as a clear ivory caption box, all exact text with correct accents. Never print production instructions. Keep all specified text verbatim and legible.",
+  "pages": [
+    {
+      "number": 1,
+      "title": "O castelo tomado",
+      "kind": "A usurpação",
+      "description": "A cidade aceita Diábolo como governante e lhe entrega o castelo de Shaddai, que se torna uma guarnição contra o verdadeiro Rei.",
+      "sourceStart": "Diabolus having now obtained entrance in at the gates of the town",
+      "sourceEnd": "endeavour the regaining of it to him and his obedience again",
+      "panels": [
+        {
+          "scene": "Top left: Diabolus persuasively addresses the townspeople in the central Gothic square, with the inner palace behind him. No fighting.",
+          "text": "Já dentro de Alma Humana, Diábolo tratou de assegurar a conquista. Alegou que a cidade precisava de alguém que a defendesse quando Shaddai viesse."
+        },
+        {
+          "scene": "Top right: the crowd willingly acclaims the dragon tyrant, raising their arms. No armed coercion.",
+          "text": "Os habitantes responderam de comum acordo: ‘Reina tu sobre nós.’ Assim, entregaram a Diábolo o governo da cidade."
+        },
+        {
+          "scene": "Bottom left: Diabolus and followers walk through the magnificent INNER castle doors, with the throne hall from the reference visible.",
+          "text": "Deram-lhe também o castelo que Shaddai edificara para seu próprio deleite. O palácio tornou-se a morada do usurpador."
+        },
+        {
+          "scene": "Bottom right: soldiers reinforce the castle with weapons, provisions and guards while Diabolus observes from above.",
+          "text": "Ali ele estabeleceu sua guarnição e reuniu provisões para resistir a Shaddai e a quem procurasse devolver a cidade ao seu verdadeiro Rei."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Lorde Entendimento nas trevas",
+      "kind": "A destituição",
+      "description": "O Lorde Prefeito, Lorde Entendimento, e o Sr. Registrador, Sr. Consciência, perdem seus cargos. Uma torre escurece a casa de Lorde Entendimento, onde ele fica confinado.",
+      "sourceStart": "This done, but not thinking himself yet secure enough",
+      "sourceEnd": "rather an impediment in, than advantage to, the famous town of Mansoul",
+      "panels": [
+        {
+          "scene": "Top left: dragon Diabolus on his throne dismisses two distinct elderly officials: Entendimento the white-haired clean-shaven scholar and Consciência the square-bearded recorder. A guard removes their seals of office.",
+          "text": "Diábolo destituiu o Lorde Prefeito, chamado Lorde Entendimento, e o Sr. Registrador, chamado Sr. Consciência. Retirou-lhes os cargos e a autoridade."
+        },
+        {
+          "scene": "Top right: Entendimento, alone beside a bright tall window in his residence, sees the tyrant's officials outside. His expression is compromised and sorrowful, not a victorious hero.",
+          "text": "Lorde Entendimento também consentira na entrada do invasor. Ainda assim, por ser um homem capaz de ver, o tirano não quis conservar seu antigo esplendor."
+        },
+        {
+          "scene": "Bottom left: wide exterior showing workers build ONE tall solid stone tower directly between the sun and the windows of Entendimento's house; clear sunlight is blocked by this tower.",
+          "text": "Mandou erguer uma torre alta e forte entre o sol e as janelas de sua casa. A sombra cobriu toda a residência, tornando-a escura como a própria escuridão."
+        },
+        {
+          "scene": "Bottom right: interior with the SAME Entendimento confined in his own darkened house, visible silhouette beside now-black windows; no dungeon, no blindfold, no bodily mutilation.",
+          "text": "Lorde Entendimento ficou confinado à própria casa, como numa prisão. Privado da luz e do poder, já não podia prestar à cidade o auxílio de antes."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "A voz do Sr. Registrador",
+      "kind": "O testemunho incômodo",
+      "description": "O Sr. Registrador é o Sr. Consciência. Embora tenha consentido na entrada de Diábolo, ainda recorda a lei de Shaddai e faz a cidade estremecer.",
+      "sourceStart": "As for Mr. Recorder, before the town was taken",
+      "sourceEnd": "as all mad folks have their fits",
+      "panels": [
+        {
+          "scene": "Top left: Consciência, elderly recorder with short square gray beard and black fur-collared robe, studies a law book in his Gothic study; a faint past image of the city council behind him. No saintly halo.",
+          "text": "O Sr. Registrador era o Sr. Consciência. Conhecia as leis de Shaddai e falava com coragem. Embora tivesse consentido na entrada de Diábolo, nunca se tornou inteiramente seu."
+        },
+        {
+          "scene": "Top right: the SAME Consciência stands in a Gothic city street holding his law book, speaking forcefully; citizens recoil and listen in alarm. Represent thunder metaphorically through composition, not magic rays.",
+          "text": "Por vezes, lembrava-se de Shaddai e temia sua lei. Então, o Sr. Registrador erguia contra Diábolo uma voz como o rugido do leão, fazendo Alma Humana estremecer."
+        },
+        {
+          "scene": "Bottom left: Diabolus's courtiers surround Consciência at a modestly depicted banquet with wine and luxury; the same man slumps, his closed law book lies neglected. No nudity or erotic content.",
+          "text": "Diábolo o temia mais que aos demais sobreviventes. Procurou, então, embrutecê-lo pelo pecado, entorpecer sua mente e endurecer seu coração."
+        },
+        {
+          "scene": "Bottom right: dragon Diabolus gestures dismissively toward the distant elderly recorder while addressing citizens, who begin to mock him.",
+          "text": "Quando isso não bastou, passou a dizer que o antigo registrador era louco. Apontava suas crises e contradições para que ninguém levasse suas palavras a sério."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "O homem que não puderam calar",
+      "kind": "A perseguição",
+      "description": "O tirano desmoraliza Consciência e a multidão o hostiliza. O antigo registrador, porém, permanece na cidade, protegido numa casa forte com comportas.",
+      "sourceStart": "Thus, by one means or another, he quickly got Mansoul to slight",
+      "sourceEnd": "he could pull up the sluices",
+      "panels": [
+        {
+          "scene": "Top left: two neighboring moments within one panel show the SAME Consciência, square-bearded old recorder, warning citizens then sitting distracted at a banquet; listeners point out his inconsistency. Keep one caption only.",
+          "text": "O Sr. Registrador ora denunciava o mal, ora se calava; quando se alegrava, chegava a negar o que antes afirmara. A cidade aprendeu a desprezá-lo."
+        },
+        {
+          "scene": "Top right: Diabolus reassures an anxious crowd from a stone balcony, with mocking courtiers around him and Consciência far in the street.",
+          "text": "Diábolo alegava que Shaddai os abandonara e não lhes pediria contas. Era mentira: naquelas advertências do Sr. Registrador, a voz de Deus ainda os confrontava."
+        },
+        {
+          "scene": "Bottom left: angry townspeople approach the recorder's stout castle-like HOUSE with raised fists and torches; he is safe at an upper window, no killing or injury.",
+          "text": "As palavras do tirano acendiam a fúria contra o velho. Alguns queriam destruí-lo e desejavam que ele morasse a mil milhas dali."
+        },
+        {
+          "scene": "Bottom right: the same elderly square-bearded Sr. Registrador (Consciência) stands SAFE within his stout fortified HOUSE by a town stronghold. Show CLOSED INTACT SLUICE GATES and mechanical handles above a calm contained water channel. He is NOT touching or operating the lever. The river and its gates show a potential defense, never an actual flood. No rushing water, NO waterfall, NO wave, NO inundation, NO drowning; the book states what he COULD do if attacked, not that he actually opens the sluices in this scene.",
+          "text": "O Sr. Registrador permaneceu; o narrador só podia explicar isso pelo poder e sabedoria de Shaddai. Sua casa, forte como um castelo, tinha comportas capazes de inundar os arredores."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "O juramento de Vontade Seja Feita",
+      "kind": "O novo governador",
+      "description": "Vontade Seja Feita se alia voluntariamente ao tirano, recebe o castelo, os muros e os portões, e combate os vestígios da lei de Shaddai.",
+      "sourceStart": "But to leave Mr. Recorder, and to come to my Lord Will-be-will",
+      "sourceEnd": "do mischief without commandment",
+      "panels": [
+        {
+          "scene": "Top left: Vontade Seja Feita, proud stern middle-aged human nobleman, dark shoulder-length hair, trimmed pointed beard, plate armor and cloak, willingly approaches the dragon tyrant's throne.",
+          "text": "Vontade Seja Feita era nobre, forte e resoluto. Orgulhoso de seus privilégios, preferiu governar sob Diábolo; já fora dos primeiros a apoiar a abertura dos portões."
+        },
+        {
+          "scene": "Top right: the same human nobleman kneels willingly and swears allegiance before the dragon tyrant, who grants him a commission and keys; no magical transformation.",
+          "text": "Jurou fidelidade ao tirano e negou dever serviço a Shaddai. Foi nomeado capitão do castelo, governador dos muros e guardião dos portões. Nada se faria sem ele."
+        },
+        {
+          "scene": "Bottom left: Vontade Seja Feita casts old torn law parchments behind his back while his slender clean-shaven scribe Mente in a dark scholar's cap watches. Gothic desk, discarded parchment visible.",
+          "text": "O Sr. Mente tornou-se seu secretário. Quando Vontade Seja Feita viu os velhos pergaminhos da lei de Shaddai que ele guardava, lançou-os para trás das costas."
+        },
+        {
+          "scene": "Bottom right: armored Vontade Seja Feita enthusiastically celebrates Diabolus among the street rabble; in a separate small background vignette the bearded Consciência guards books inside his study and the tower darkens Entendimento's house.",
+          "text": "Odiava o Sr. Registrador, mas não podia alcançar as leis que ele guardava. Nem uma vela em casa de Lorde Entendimento suportava. Pelas ruas, exaltava Diábolo e fazia o mal sem ordem."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "A família de Afeto-Vil",
+      "kind": "A corrupção se espalha",
+      "description": "O Sr. Afeto, chamado Afeto-Vil, casa-se com Luxúria-Carnal, filha do Sr. Mente. A família se multiplica e amplia a corrupção em Alma Humana.",
+      "sourceStart": "The Lord Will-be-will also had a deputy under him",
+      "sourceEnd": "too many to be here inserted",
+      "panels": [
+        {
+          "scene": "Top left: armored human Vontade Seja Feita grants deputy insignia to Afeto-Vil, a richly dressed complacent adult human noble with rounded face and short curled hair. Keep character distinction.",
+          "text": "Vontade Seja Feita tinha um auxiliar, o Sr. Afeto. Corrompido em seus princípios e em sua vida, entregava-se à carne; por isso o chamavam Afeto-Vil."
+        },
+        {
+          "scene": "Top right: a solemn non-religious marriage scene in a Gothic civic hall: adult Afeto-Vil and adult Luxúria-Carnal, modest fully clothed period dress, clasp hands; her father Mente, slender scribe in scholar's cap, stands nearby. No priest or invented theological ritual.",
+          "text": "Afeto-Vil e Luxúria-Carnal, filha do Sr. Mente, apaixonaram-se, ficaram noivos e se casaram."
+        },
+        {
+          "scene": "Bottom left: exactly six distinct fully clothed grown offspring arranged as three men and three women in Gothic street: a brazen man, foul-mouthed man, man rejecting reproof, woman mocking truth, woman dismissing a law scroll, youngest woman tightly gripping a harmless symbolic grievance scroll. No caricature based on race; no weapons hurting anyone. Caption two or three well-spaced lines, enough room for every name.",
+          "text": "Seus filhos eram Impudência, Boca-Suja e Ódio-à-Repreensão. As filhas eram Desprezo-da-Verdade, Esquece-Deus e a caçula, Vingança."
+        },
+        {
+          "scene": "Bottom right: wider city street showing the same adult family branching into several households through doors and alleys; ordinary fully clothed human figures, moral corruption shown as quarreling and ignoring law, no explicit activity.",
+          "text": "As filhas se casaram em Alma Humana e tiveram muitos descendentes. A corrupção crescia entre as famílias da cidade."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "A imagem desfigurada",
+      "kind": "A memória de Shaddai",
+      "description": "Sem-Verdade desfigura as imagens gravadas de Shaddai e instala as de Diábolo. As leis e os bons costumes passam a ser destruídos.",
+      "sourceStart": "When the giant had thus engarrisoned himself in the town of Mansoul",
+      "sourceEnd": "by the hand of Mr. No-truth",
+      "panels": [
+        {
+          "scene": "Top left: central market square and, within the view beyond, the gates of the INNER CASTLE. Both bear finely engraved metal relief portraits of the rightful majestic King Shaddai. These are engraved bas-reliefs, not detached stone statues. Warm metal represented only by pale engraving highlights, no actual color.",
+          "text": "Havia na praça do mercado e nos portões do castelo imagens de Shaddai, gravadas em ouro com extraordinária semelhança. Diábolo ordenou que fossem desfiguradas."
+        },
+        {
+          "scene": "Top right: Sem-Verdade, thin sharp-faced adult craftsman in dark hood and work apron, uses chisel and hammer to deface a metal relief in the square; Diabolus points the command. Only damage to objects, no gore.",
+          "text": "O Sr. Sem-Verdade executou a ordem. A imagem do verdadeiro Rei foi ultrajada pelas mãos daquele que servia à mentira."
+        },
+        {
+          "scene": "Bottom left: the SAME Sem-Verdade installs a terrifying ENGRAVED dragon-tyrant relief over the defaced former place on the castle gate; the market relief has likewise been replaced. Do not show an invasion.",
+          "text": "O mesmo homem recebeu outra tarefa: pôr, no lugar da imagem de Shaddai, a figura horrenda de Diábolo. Assim se aviltava a memória do Rei e a própria cidade."
+        },
+        {
+          "scene": "Bottom right: Diabolus and armored human Vontade Seja Feita oversee the tearing of public law scrolls and removal of legal tablets in the square. Storehouse of damaged books, no anachronisms.",
+          "text": "Diábolo e Vontade Seja Feita destruíram os restos das leis e dos bons preceitos que encontraram. Queriam apagar o bem e reduzir Alma Humana à vida dos próprios apetites."
+        }
+      ],
+      "layout": "splash",
+      "composition": "ONE uninterrupted PORTRAIT full-page illustration, about 2:3 aspect ratio. The climax of the desecration. From a very low angle in the monumental Gothic market, Sem Verdade chisels the detailed gold-engraved bas-relief portrait of Shaddai on a massive wall, metallic fragments falling at his feet. Above and behind, the new monstrous engraved image of dragon Diabolus is being hoisted into its place, and the actual dragon tyrant with bat wings looks down from a balcony. In the continuous background, Vontade Própria oversees removal and tearing of legal scrolls, and the castle gates across the square repeat the replacement. A dramatic shaft of pale light falls on the damaged relief while the tyrant looms in shadow. This is one spatially coherent grand image, NOT four scenes or panels. Place the four ivory narration boxes at the upper left, upper right, lower left and lower right margins; keep the central sculpture and artisan unobstructed. Reference only the historical engraving STYLE and the same character designs, never the reference comic grid."
+    },
+    {
+      "number": 8,
+      "title": "As leis do usurpador",
+      "kind": "Os novos magistrados",
+      "description": "Diábolo publica seus editos, promete impunidade e nomeia Lorde Concupiscência como prefeito e o Sr. Esquece-o-Bem como novo registrador.",
+      "sourceStart": "When he had destroyed what law and good orders he could",
+      "sourceEnd": "they corrupt the whole region and country where they are",
+      "panels": [
+        {
+          "scene": "Top left: city heralds pin long new edict scrolls in crowded Gothic public squares, dragon insignia on top, townspeople eagerly gather. No extra readable lettering besides caption.",
+          "text": "Nos lugares públicos, Diábolo mandou afixar seus próprios editos. Favoreciam a concupiscência da carne, a cobiça dos olhos e a soberba da vida."
+        },
+        {
+          "scene": "Top right: the dragon tyrant promises delights from a balcony while the city below indulges in boastful luxury, drunkenness and quarrels, all fully clothed. Visually the claims are deceptive, not a narrator's endorsement.",
+          "text": "Prometia paz, alegria e satisfação a quem o obedecesse, sem prestação de contas. Alma Humana passou a ouvir e ver aquilo que servia para exaltá-lo."
+        },
+        {
+          "scene": "Bottom left: investiture of Lorde Concupiscência as MAYOR, a fully clothed human civic official with a smooth stylized face entirely without eyes and without ears, NOT blindfolded, no wounds or injury; dragon Diabolus gives him the mayoral chain.",
+          "text": "Para prefeito escolheu Lorde Concupiscência, homem sem olhos nem ouvidos. Agia como os animais, por impulso, e jamais apreciava o bem, somente o mal."
+        },
+        {
+          "scene": "Bottom right: Esquece-o-Bem, a different hunched thin civic recorder with hooked nose, receding hair and sly smile, writes harmful decrees in an account book while citizens copy his conduct; civic mayor Desejos visible beside him.",
+          "text": "O novo registrador era o Sr. Esquece-o-Bem. Só se lembrava de maldades e tinha prazer em praticá-las. Os dois governantes firmaram o povo nos caminhos que o prejudicavam."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "O conselho dos treze",
+      "kind": "A administração corrompida",
+      "description": "Diábolo escolhe os treze principais membros do conselho. Os outros cargos recaem sobre homens da mesma família e dos mesmos costumes.",
+      "sourceStart": "Besides these, Diabolus made several burgesses and aldermen in Mansoul",
+      "sourceEnd": "whose names, for brevity's sake, I omit to mention",
+      "panels": [
+        {
+          "scene": "Top left: wide semicircular Gothic council chamber, Diabolus in the background installs a council of THIRTEEN distinct fully clothed human officials; emphasize elderly gray-haired Incredulidade at one end and young adult Ateísmo at the other. Do not add an army or supernatural battle.",
+          "text": "Diábolo escolheu treze homens principais para o conselho. Incredulidade era o mais velho; Ateísmo, o mais novo. Deles sairiam os futuros oficiais e magistrados."
+        },
+        {
+          "scene": "Top right: closer view of four corrupt human officials at a Gothic table, each with a distinctive restrained gesture: skeptical elderly man, haughty noble, swearing speaker and vain lustful noble with fully modest clothes. No other written labels.",
+          "text": "Eram eles: Incredulidade, Arrogância, Imprecações e Fornicação; depois, Coração-Duro, Implacável e Fúria."
+        },
+        {
+          "scene": "Bottom left: closer view of the remaining faction at the council table, with known sharp-faced hooded Sem-Verdade, men hiding scrolls, a falsely conciliatory official, a drunkard, a cheating merchant and the young adult atheist. Keep six remaining names exact in caption, no extra names.",
+          "text": "Completavam os treze: Sem-Verdade, Mentira-Descarada, Falsa-Paz, Embriaguez, Trapaças e Ateísmo."
+        },
+        {
+          "scene": "Bottom right: civic clerks award insignia, staffs and offices to relatives of the corrupt council members in the same chamber, showing nepotism without violence. Architecture ominous, contemplative ending before the fortress page.",
+          "text": "Vereadores, oficiais de justiça, sargentos e guardas vieram do mesmo círculo: pais, irmãos, primos e sobrinhos daqueles homens. Todos partilhavam seus maus caminhos."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "As três fortalezas",
+      "kind": "A falsa segurança",
+      "description": "Desafio, Meia-Noite e Doce Pecado mantêm a cidade afastada do Rei, do conhecimento de si e do desejo pelo bem. Diábolo julga-se seguro.",
+      "sourceStart": "When the giant had thus far proceeded in his work",
+      "sourceEnd": "in case the good Shaddai, or his Son, should come to make an incursion upon him",
+      "panels": [
+        {
+          "scene": "Top left: towering fortress called Desafio stands DIRECTLY BESIDE the OUTER Eye Gate (Portão do Olho), casting shadows across its eye-shaped carved emblem. Governor Odeia Deus, defiant adult armored human, gestures from the rampart. Gate exists outside the inner palace.",
+          "text": "Junto ao Portão do Olho, ergueu o Forte Desafio, governado por Ódio-a-Deus. Sua função era dominar a cidade e impedir que ela conhecesse seu antigo Rei."
+        },
+        {
+          "scene": "Top right: SECOND distinct fortress Meia-Noite stands immediately adjacent to the OLD INNER CASTLE, obscuring its light. Governor Não Ama a Luz, hooded human adult, watches from darkness. Different construction from first fort.",
+          "text": "Perto do velho castelo, construiu o Forte Meia-Noite, sob Não-Amante-da-Luz. Ele impediria Alma Humana de conhecer verdadeiramente a si mesma."
+        },
+        {
+          "scene": "Bottom left: THIRD fortified stronghold Doce Pecado occupies the MARKET SQUARE and has deceptively luxurious entrance beneath hard defensive walls. Governor Ama a Carne, richly clothed complacent human, receives townspeople. Fully clothed, no explicit content.",
+          "text": "Na praça do mercado, levantou o Forte Doce Pecado, governado por Ama-a-Carne. Por ele, mantinha a cidade afastada de todo desejo de bem."
+        },
+        {
+          "scene": "Bottom right: final grand panorama from behind dragon-headed winged Diabolus on a high balcony, looking over all THREE completed distinct strongholds, his garrisons and occupied city. Peacefully ominous apparent security. NO Shaddai army, NO Emmanuel, NO messenger, NO rescue, because those belong to chapter III or later.",
+          "text": "Com o castelo guarnecido, os cargos substituídos, as imagens e as leis trocadas, Diábolo julgou-se seguro contra Shaddai ou seu Filho."
+        }
+      ],
+      "layout": "splash",
+      "composition": "ONE uninterrupted PORTRAIT full-page illustration, about 2:3 aspect ratio. Grand final panoramic vision of the conquered city from a high castle balcony. In the strong foreground, the same crowned dragon-headed Diabolus in his dark regal cloak spreads his bat wings above a city he believes secured. The entire continuous Gothic city fills the image below and behind him. Make exactly THREE conspicuous distinct strongholds within the city: Desafio beside the outer Eye Gate at the left, Meia-Noite directly beside the OLD INNER CASTLE deeper in the middle, and Doce Pecado occupying the market square below at the right. Each has a small clearly visible distinct human governor standing at its walls or portal. Show army garrisons but NO battle, messenger, Shaddai or Emmanuel; no rescue yet. The three forts must occupy one continuous geographically coherent cityscape, with deep spatial perspective. Put each of the first three ivory narration boxes close to its corresponding stronghold and the fourth as a solemn footer over the single illustration. No collage, no grid, no dividing borders, no separate insets. Leave most of the page as uninterrupted finely engraved artwork."
+    }
+  ],
+  "terminologyNote": "Lorde Prefeito e Lorde Entendimento designam o mesmo homem. Sr. Registrador e Sr. Consciência designam o mesmo homem. Sr. Afeto e Afeto-Vil designam o mesmo homem. O Sr. Mente é secretário de Vontade Seja Feita. Esquece-o-Bem assume depois como novo registrador. Não criar personagens separados para esses cargos e nomes.",
+  "referencePdf": {
+    "title": "La guerra santa.pdf",
+    "translator": "Santiago Escuain",
+    "language": "es",
+    "pages": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "note": "A numeração dos trechos do PDF difere da divisão em capítulos da HQ. Este é o trecho que continua a conquista já representada no capítulo I do repositório."
+  }
+}

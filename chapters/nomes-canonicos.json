@@ -1,0 +1,319 @@
+{
+  "note": "Os nomes indicados pelo usuário têm precedência. Os demais são equivalências em PT-BR conferidas diretamente no PDF enviado, páginas 8–13. Não atribuir essa lista inteira a uma edição PT-BR publicada que não foi fornecida.",
+  "characters": [
+    {
+      "english": "Shaddai",
+      "spanishPdf": "Shaddai",
+      "ptBR": "Shaddai",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Diabolus",
+      "spanishPdf": "Diábolo",
+      "ptBR": "Diábolo",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Emmanuel",
+      "spanishPdf": "Emanuel",
+      "ptBR": "Emanuel",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Mansoul",
+      "spanishPdf": "Alma Humana",
+      "ptBR": "Alma Humana",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Universe",
+      "spanishPdf": "Universo",
+      "ptBR": "Universo",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Alecto",
+      "spanishPdf": "Alecto",
+      "ptBR": "Alecto",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Apollyon",
+      "spanishPdf": "Apolión",
+      "ptBR": "Apoliom",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Beelzebub",
+      "spanishPdf": "Beelzebú",
+      "ptBR": "Belzebu",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Lucifer",
+      "spanishPdf": "Lucifer",
+      "ptBR": "Lúcifer",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Legion",
+      "spanishPdf": "Legión",
+      "ptBR": "Legião",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Tisiphone",
+      "spanishPdf": "Tisífona",
+      "ptBR": "Tisífone",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Ill-Pause",
+      "spanishPdf": "Mala-Pausa",
+      "ptBR": "Má Pausa",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Captain Resistance",
+      "spanishPdf": "Capitán Resistencia",
+      "ptBR": "Capitão Resistência",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Lord Innocent",
+      "spanishPdf": "Lord Inocente",
+      "ptBR": "Lorde Inocência",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Lord Will-be-will",
+      "spanishPdf": "Lord Recia-Voluntad",
+      "ptBR": "Vontade Seja Feita",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Lord Mayor",
+      "spanishPdf": "Lord Alcalde",
+      "ptBR": "Lorde Prefeito",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Lord Understanding",
+      "spanishPdf": "Lord Entendimiento",
+      "ptBR": "Lorde Entendimento",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Mr. Recorder",
+      "spanishPdf": "Sr. Archivero",
+      "ptBR": "Sr. Registrador",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Mr. Conscience",
+      "spanishPdf": "Sr. Conciencia",
+      "ptBR": "Sr. Consciência",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Mr. Mind",
+      "spanishPdf": "Sr. Mente",
+      "ptBR": "Sr. Mente",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Mr. Affection",
+      "spanishPdf": "Sr. Afecto",
+      "ptBR": "Sr. Afeto",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Vile-Affection",
+      "spanishPdf": "Vil-Afecto",
+      "ptBR": "Afeto-Vil",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Carnal-Lust",
+      "spanishPdf": "Concupiscencia Carnal",
+      "ptBR": "Luxúria-Carnal",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Impudent",
+      "spanishPdf": "Impudicia",
+      "ptBR": "Impudência",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Blackmouth",
+      "spanishPdf": "Boca-Sucia",
+      "ptBR": "Boca-Suja",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Hate-Reproof",
+      "spanishPdf": "Odia-Reprensión",
+      "ptBR": "Ódio-à-Repreensão",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Scorn-Truth",
+      "spanishPdf": "Escarnece-Verdad",
+      "ptBR": "Desprezo-da-Verdade",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Slight-God",
+      "spanishPdf": "Olvido-de-Dios",
+      "ptBR": "Esquece-Deus",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "Revenge",
+      "spanishPdf": "Venganza",
+      "ptBR": "Vingança",
+      "basis": "grafia indicada pelo usuário"
+    },
+    {
+      "english": "No-Truth",
+      "spanishPdf": "No-Verdad",
+      "ptBR": "Sem-Verdade",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Lord Lustings",
+      "spanishPdf": "Lord Concupiscencia",
+      "ptBR": "Lorde Concupiscência",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Forget-Good",
+      "spanishPdf": "Olvida-lo-Bueno",
+      "ptBR": "Esquece-o-Bem",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Incredulity",
+      "spanishPdf": "Incredulidad",
+      "ptBR": "Incredulidade",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Haughty",
+      "spanishPdf": "Arrogancia",
+      "ptBR": "Arrogância",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Swearing",
+      "spanishPdf": "Imprecaciones",
+      "ptBR": "Imprecações",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Whoring",
+      "spanishPdf": "Fornicación",
+      "ptBR": "Fornicação",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Hard-Heart",
+      "spanishPdf": "Duro-Corazón",
+      "ptBR": "Coração-Duro",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Pitiless",
+      "spanishPdf": "Implacable",
+      "ptBR": "Implacável",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Fury",
+      "spanishPdf": "Furia",
+      "ptBR": "Fúria",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Stand-to-Lies",
+      "spanishPdf": "Mentira-Descarada",
+      "ptBR": "Mentira-Descarada",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "False-Peace",
+      "spanishPdf": "Falsa-Paz",
+      "ptBR": "Falsa-Paz",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Drunkenness",
+      "spanishPdf": "Embriaguez",
+      "ptBR": "Embriaguez",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Cheating",
+      "spanishPdf": "Trampas",
+      "ptBR": "Trapaças",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Atheism",
+      "spanishPdf": "Ateísmo",
+      "ptBR": "Ateísmo",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Hold of Defiance",
+      "spanishPdf": "Fuerte Desafío",
+      "ptBR": "Forte Desafio",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Midnight Hold",
+      "spanishPdf": "Fuerte Medianoche",
+      "ptBR": "Forte Meia-Noite",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Sweet-Sin Hold",
+      "spanishPdf": "Fuerte Dulce Pecado",
+      "ptBR": "Forte Doce Pecado",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Spite-God",
+      "spanishPdf": "Odio-a-Dios",
+      "ptBR": "Ódio-a-Deus",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Love-no-Light",
+      "spanishPdf": "No-Amante-de-la-Luz",
+      "ptBR": "Não-Amante-da-Luz",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    },
+    {
+      "english": "Love-Flesh",
+      "spanishPdf": "Ama-la-Carne",
+      "ptBR": "Ama-a-Carne",
+      "basis": "equivalência em PT-BR do PDF fornecido"
+    }
+  ],
+  "sameCharacterGroups": [
+    [
+      "Lorde Prefeito",
+      "Lorde Entendimento"
+    ],
+    [
+      "Sr. Registrador",
+      "Sr. Consciência"
+    ],
+    [
+      "Sr. Afeto",
+      "Afeto-Vil"
+    ]
+  ]
+}
