@@ -1,9 +1,13 @@
-Use case: text-localization. Make a precise editorial lettering correction to the PROVIDED finished comic plate of John Bunyan's A GUERRA SANTA. The user supplied the book and an authoritative Portuguese character-name list. All text MUST be in BRAZILIAN PORTUGUESE and copied EXACTLY from the final captions below; do not replace a proper name by a synonym, Spanish form, English form or a new translation.
-Preserve the existing extraordinary nineteenth-century black and white engraving artwork, character faces and costumes, Gothic architecture, fine crosshatching and ivory caption boxes. Preserve the page's existing LANDSCAPE four-panel layout. The dragon-headed bat-winged tyrant is called DIÁBOLO, not Diabolus. The armored human noble is VONTADE SEJA FEITA, not Vontade Própria. Sr. Registrador and Sr. Consciência are the same elderly man. Lorde Prefeito and Lorde Entendimento are the same elderly man. Sr. Afeto and Afeto-Vil are the same human character. Luxúria-Carnal is the adult daughter of Sr. Mente.
-Do not add characters or change the action. Keep lettering beautiful classic black book serif, large enough to read, accents and hyphens precise, no cropped text. Adjust each ivory caption box height just enough to fit the final text without obscuring faces. Top margin EXACTLY: "A GUERRA SANTA · CAPÍTULO II" and "06 · A FAMÍLIA DE AFETO-VIL".
-Replace ALL existing caption text with these FOUR exact final narration texts, in reading order:
-1. "Vontade Seja Feita tinha um auxiliar, o Sr. Afeto. Corrompido em seus princípios e em sua vida, entregava-se à carne; por isso o chamavam Afeto-Vil."
-2. "Afeto-Vil e Luxúria-Carnal, filha do Sr. Mente, apaixonaram-se, ficaram noivos e se casaram."
-3. "Seus filhos eram Impudência, Boca-Suja e Ódio-à-Repreensão. As filhas eram Desprezo-da-Verdade, Esquece-Deus e a caçula, Vingança."
-4. "As filhas se casaram em Alma Humana e tiveram muitos descendentes. A corrupção crescia entre as famílias da cidade."
-Change only the lettering; preserve all illustrations and the existing page layout.
+PRANCHA 06 · A família do Sr. Afeto
+Montagem da arte existente. 5 quadro(s). Preservar a ordem abaixo.
+Nomes exclusivos: Diabolus, Sr. Prefeito, Sr. Registrador, Sr. Afeto.
+
+1. Odiava o Sr. Registrador, mas não podia alcançar as leis que ele guardava. Nem uma vela em casa de Sr. Prefeito suportava. Pelas ruas, exaltava Diabolus e fazia o mal sem ordem.
+
+2. Vontade Seja Feita tinha um auxiliar, o Sr. Afeto. Corrompido em seus princípios e em sua vida, entregava-se aos desejos da carne.
+
+3. Sr. Afeto e Luxúria-Carnal, filha do Sr. Mente, apaixonaram-se, ficaram noivos e se casaram.
+
+4. Seus filhos eram Impudência, Boca-Suja e Ódio-à-Repreensão. As filhas eram Desprezo-da-Verdade, Esquece-Deus e a caçula, Vingança.
+
+5. As filhas se casaram em Alma Humana e tiveram muitos descendentes. A corrupção crescia entre as famílias da cidade.

@@ -1,4 +1,0 @@
-Use case: text-localization. Edit this finished Portuguese comic with surgical precision. Preserve the complete artwork and all four panels. Correct ONLY the lettering described here.
-1. The small top-right page heading must say EXACTLY "06 · A FAMÍLIA DE AFETO-VIL". The hyphen in AFETO-VIL is mandatory; do NOT write AFETO VIL.
-2. The lower-left caption must say EXACTLY "Seus filhos eram Impudência, Boca-Suja e Ódio-à-Repreensão. As filhas eram Desprezo-da-Verdade, Esquece-Deus e a caçula, Vingança." Impudência has the circumflex ê. Ódio has capital Ó; à has the grave accent; Repreensão has ã. Keep every required hyphen.
-Preserve every other caption, all character faces, clothes, detailed engraving, paper, borders, dimensions and layout. No artistic restyling. Brazilian Portuguese only.

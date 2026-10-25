@@ -1,9 +1,13 @@
-Use case: text-localization. Make a precise editorial lettering correction to the PROVIDED finished comic plate of John Bunyan's A GUERRA SANTA. The user supplied the book and an authoritative Portuguese character-name list. All text MUST be in BRAZILIAN PORTUGUESE and copied EXACTLY from the final captions below; do not replace a proper name by a synonym, Spanish form, English form or a new translation.
-Preserve the existing extraordinary nineteenth-century black and white engraving artwork, character faces and costumes, Gothic architecture, fine crosshatching and ivory caption boxes. Preserve the page's existing LANDSCAPE four-panel layout. The dragon-headed bat-winged tyrant is called DIÁBOLO, not Diabolus. The armored human noble is VONTADE SEJA FEITA, not Vontade Própria. Sr. Registrador and Sr. Consciência are the same elderly man. Lorde Prefeito and Lorde Entendimento are the same elderly man. Sr. Afeto and Afeto-Vil are the same human character. Luxúria-Carnal is the adult daughter of Sr. Mente.
-Do not add characters or change the action. Keep lettering beautiful classic black book serif, large enough to read, accents and hyphens precise, no cropped text. Adjust each ivory caption box height just enough to fit the final text without obscuring faces. Top margin EXACTLY: "A GUERRA SANTA · CAPÍTULO II" and "02 · LORDE ENTENDIMENTO NAS TREVAS".
-Replace ALL existing caption text with these FOUR exact final narration texts, in reading order:
-1. "Diábolo destituiu o Lorde Prefeito, chamado Lorde Entendimento, e o Sr. Registrador, chamado Sr. Consciência. Retirou-lhes os cargos e a autoridade."
-2. "Lorde Entendimento também consentira na entrada do invasor. Ainda assim, por ser um homem capaz de ver, o tirano não quis conservar seu antigo esplendor."
-3. "Mandou erguer uma torre alta e forte entre o sol e as janelas de sua casa. A sombra cobriu toda a residência, tornando-a escura como a própria escuridão."
-4. "Lorde Entendimento ficou confinado à própria casa, como numa prisão. Privado da luz e do poder, já não podia prestar à cidade o auxílio de antes."
-Change only the lettering; preserve all illustrations and the existing page layout.
+PRANCHA 02 · O Sr. Prefeito nas trevas
+Montagem da arte existente. 5 quadro(s). Preservar a ordem abaixo.
+Nomes exclusivos: Diabolus, Sr. Prefeito, Sr. Registrador, Sr. Afeto.
+
+1. Ali ele estabeleceu sua guarnição e reuniu provisões para resistir a Shaddai e a quem procurasse devolver a cidade ao seu verdadeiro Rei.
+
+2. Diabolus destituiu o Sr. Prefeito e o Sr. Registrador. Retirou-lhes os cargos e a autoridade.
+
+3. Sr. Prefeito também consentira na entrada do invasor. Ainda assim, por ser um homem capaz de ver, o tirano não quis conservar seu antigo esplendor.
+
+4. Mandou erguer uma torre alta e forte entre o sol e as janelas de sua casa. A sombra cobriu toda a residência, tornando-a escura como a própria escuridão.
+
+5. Sr. Prefeito ficou confinado à própria casa, como numa prisão. Privado da luz e do poder, já não podia prestar à cidade o auxílio de antes.

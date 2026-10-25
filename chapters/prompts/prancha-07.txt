@@ -1,9 +1,11 @@
-Use case: text-localization. Make a precise editorial lettering correction to the PROVIDED finished comic plate of John Bunyan's A GUERRA SANTA. The user supplied the book and an authoritative Portuguese character-name list. All text MUST be in BRAZILIAN PORTUGUESE and copied EXACTLY from the final captions below; do not replace a proper name by a synonym, Spanish form, English form or a new translation.
-Preserve the existing extraordinary nineteenth-century black and white engraving artwork, character faces and costumes, Gothic architecture, fine crosshatching and ivory caption boxes. Preserve the page's existing PORTRAIT ONE-IMAGE FULL-PAGE composition, absolutely no comic grid or divisions. The dragon-headed bat-winged tyrant is called DIÁBOLO, not Diabolus. The armored human noble is VONTADE SEJA FEITA, not Vontade Própria. Sr. Registrador and Sr. Consciência are the same elderly man. Lorde Prefeito and Lorde Entendimento are the same elderly man. Sr. Afeto and Afeto-Vil are the same human character. Luxúria-Carnal is the adult daughter of Sr. Mente.
-Do not add characters or change the action. Keep lettering beautiful classic black book serif, large enough to read, accents and hyphens precise, no cropped text. Adjust each ivory caption box height just enough to fit the final text without obscuring faces. Top margin EXACTLY: "A GUERRA SANTA · CAPÍTULO II" and "07 · A IMAGEM DESFIGURADA".
-Replace ALL existing caption text with these FOUR exact final narration texts, in reading order:
-1. "Havia na praça do mercado e nos portões do castelo imagens de Shaddai, gravadas em ouro com extraordinária semelhança. Diábolo ordenou que fossem desfiguradas."
-2. "O Sr. Sem-Verdade executou a ordem. A imagem do verdadeiro Rei foi ultrajada pelas mãos daquele que servia à mentira."
-3. "O mesmo homem recebeu outra tarefa: pôr, no lugar da imagem de Shaddai, a figura horrenda de Diábolo. Assim se aviltava a memória do Rei e a própria cidade."
-4. "Diábolo e Vontade Seja Feita destruíram os restos das leis e dos bons preceitos que encontraram. Queriam apagar o bem e reduzir Alma Humana à vida dos próprios apetites."
-Change only the lettering; preserve all illustrations and the existing page layout.
+PRANCHA 07 · A imagem desfigurada
+Montagem da arte existente. 1 quadro(s). Preservar a ordem abaixo.
+Nomes exclusivos: Diabolus, Sr. Prefeito, Sr. Registrador, Sr. Afeto.
+
+1. Havia na praça do mercado e nos portões do castelo imagens de Shaddai, gravadas em ouro com extraordinária semelhança. Diabolus ordenou que fossem desfiguradas.
+
+2. O Sr. Sem-Verdade executou a ordem. A imagem do verdadeiro Rei foi ultrajada pelas mãos daquele que servia à mentira.
+
+3. O mesmo homem recebeu outra tarefa: pôr, no lugar da imagem de Shaddai, a figura horrenda de Diabolus. Assim se aviltava a memória do Rei e a própria cidade.
+
+4. Diabolus e Vontade Seja Feita destruíram os restos das leis e dos bons preceitos que encontraram. Queriam apagar o bem e reduzir Alma Humana à vida dos próprios apetites.

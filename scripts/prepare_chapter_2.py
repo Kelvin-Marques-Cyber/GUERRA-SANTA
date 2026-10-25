@@ -22,7 +22,7 @@ script = ['# A Guerra Santa — Capítulo II da HQ', '', '## Texto de referênci
           'de página inteira; as demais usam sequências de quadros. As legendas condensam a prosa '
           'sem apresentar o capítulo como transcrição integral.', '',
           '## Roteiro das dez pranchas', '']
-source_pages = [[8], [8], [8, 9], [9, 10], [10, 11], [11], [12], [12, 13], [13], [13]]
+source_pages = [p['sourcePdfPages'] for p in data['pages']]
 for page, pdf_pages in zip(data['pages'], source_pages):
     image_path = f"assets/capitulo-2/prancha-{page['number']:02d}.png"
     with Image.open(ROOT / image_path) as im:
@@ -30,12 +30,12 @@ for page, pdf_pages in zip(data['pages'], source_pages):
     manifest['pages'].append({
         'title': page['title'], 'subtitle': data['subtitle'],
         'description': page['description'], 'kind': page['kind'],
-        'image': image_path, 'width': width, 'height': height,
+        'image': image_path + '?v=diagrama-2', 'width': width, 'height': height,
         'aspect': round(width / height, 4), 'layout': page.get('layout', 'grid'),
-        'panels': [{'text': panel['text']} for panel in page['panels']], 'sourcePdfPages': pdf_pages
+        'panelCount': page['panelCount'], 'panels': [{'text': panel['text']} for panel in page['panels']], 'sourcePdfPages': pdf_pages
     })
     script += [f"### {page['number']:02d} — {page['title']}", '',
-               '**Composição:** ' + ('imagem única de página inteira' if page.get('layout') == 'splash' else 'sequência de quadros') + '.', '',
+               '**Composição:** ' + ('imagem única de página inteira' if page.get('layout') == 'splash' else str(page['panelCount']) + ' quadros de tamanhos variados') + '.', '',
                '**Páginas no PDF:** ' + ', '.join(map(str, pdf_pages)) + '.', '',
                f"**Início no original inglês:** {page['sourceStart']}", '',
                f"**Fim no original inglês:** {page['sourceEnd']}", '']
@@ -45,7 +45,7 @@ script += ['## Nomes fixados em português brasileiro', '', names['note'], '',
            '| Original inglês | PDF em espanhol | Nome nesta HQ |', '| --- | --- | --- |']
 script += [f"| {n['english']} | {n['spanishPdf']} | {n['ptBR']} |" for n in names['characters']]
 script += ['', '## Reprodução da arte', '',
-           'As imagens foram geradas e corrigidas com o gerador integrado de imagens. '
+           'As gravuras existentes foram recompostas sem regenerar os personagens ou cenários. '
            'As instruções finais de edição, com todas as legendas, estão em `chapters/prompts/`. '
            'A direção de arte e as descrições das cenas ficam em `capitulo-2.json`.', '']
 (ROOT / 'chapters/capitulo-2.js').write_text('/* Gerado por scripts/prepare_chapter_2.py. */\nwindow.__CHAPTER_2__ = ' + json.dumps(manifest, ensure_ascii=False, indent=2) + ';\n')

@@ -7,11 +7,11 @@
       id: 1, roman: 'I', title: 'A cidade de Alma Humana',
       subtitle: 'A inocência, o engano e a queda', pages: window.__PAGES__,
       ending: 'A cidade abriu seus próprios portões.',
-      afterword: 'No capítulo seguinte, Diábolo consolida sua conquista e transforma o governo de Alma Humana.'
+      afterword: 'No capítulo seguinte, Diabolus consolida sua conquista e transforma o governo de Alma Humana.'
     },
     {
       ...window.__CHAPTER_2__, roman: 'II',
-      ending: 'E Diábolo julgou-se seguro.',
+      ending: 'E Diabolus julgou-se seguro.',
       afterword: 'O capítulo termina com as três fortalezas erguidas. A notícia levada à corte de Shaddai pertence ao capítulo III.'
     }
   ];

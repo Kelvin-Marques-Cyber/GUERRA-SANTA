@@ -1,9 +1,11 @@
-Use case: text-localization. Make a precise editorial lettering correction to the PROVIDED finished comic plate of John Bunyan's A GUERRA SANTA. The user supplied the book and an authoritative Portuguese character-name list. All text MUST be in BRAZILIAN PORTUGUESE and copied EXACTLY from the final captions below; do not replace a proper name by a synonym, Spanish form, English form or a new translation.
-Preserve the existing extraordinary nineteenth-century black and white engraving artwork, character faces and costumes, Gothic architecture, fine crosshatching and ivory caption boxes. Preserve the page's existing LANDSCAPE four-panel layout. The dragon-headed bat-winged tyrant is called DIÁBOLO, not Diabolus. The armored human noble is VONTADE SEJA FEITA, not Vontade Própria. Sr. Registrador and Sr. Consciência are the same elderly man. Lorde Prefeito and Lorde Entendimento are the same elderly man. Sr. Afeto and Afeto-Vil are the same human character. Luxúria-Carnal is the adult daughter of Sr. Mente.
-Do not add characters or change the action. Keep lettering beautiful classic black book serif, large enough to read, accents and hyphens precise, no cropped text. Adjust each ivory caption box height just enough to fit the final text without obscuring faces. Top margin EXACTLY: "A GUERRA SANTA · CAPÍTULO II" and "04 · O HOMEM QUE NÃO PUDERAM CALAR".
-Replace ALL existing caption text with these FOUR exact final narration texts, in reading order:
-1. "O Sr. Registrador ora denunciava o mal, ora se calava; quando se alegrava, chegava a negar o que antes afirmara. A cidade aprendeu a desprezá-lo."
-2. "Diábolo alegava que Shaddai os abandonara e não lhes pediria contas. Era mentira: naquelas advertências do Sr. Registrador, a voz de Deus ainda os confrontava."
-3. "As palavras do tirano acendiam a fúria contra o velho. Alguns queriam destruí-lo e desejavam que ele morasse a mil milhas dali."
-4. "O Sr. Registrador permaneceu; o narrador só podia explicar isso pelo poder e sabedoria de Shaddai. Sua casa, forte como um castelo, tinha comportas capazes de inundar os arredores."
-Change only the lettering; preserve all illustrations and the existing page layout.
+PRANCHA 04 · A voz desprezada
+Montagem da arte existente. 4 quadro(s). Preservar a ordem abaixo.
+Nomes exclusivos: Diabolus, Sr. Prefeito, Sr. Registrador, Sr. Afeto.
+
+1. Diabolus o temia mais que aos demais sobreviventes. Procurou, então, embrutecê-lo pelo pecado, entorpecer sua mente e endurecer seu coração.
+
+2. Quando isso não bastou, passou a dizer que o antigo registrador era louco. Apontava suas crises e contradições para que ninguém levasse suas palavras a sério.
+
+3. O Sr. Registrador ora denunciava o mal, ora se calava; quando se alegrava, chegava a negar o que antes afirmara. A cidade aprendeu a desprezá-lo.
+
+4. Diabolus alegava que Shaddai os abandonara e não lhes pediria contas. Era mentira: naquelas advertências do Sr. Registrador, a voz de Deus ainda os confrontava.

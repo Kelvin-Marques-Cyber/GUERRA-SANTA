@@ -1,26 +1,24 @@
-# Conferência editorial do capítulo II da HQ
+# Revisão editorial do capítulo II
 
-Fonte principal da conferência: PDF enviado pelo usuário, La guerra santa, tradução de Santiago Escuain, páginas físicas 8 a 13. Fonte complementar: original inglês de John Bunyan. A divisão numérica do PDF não é a divisão da HQ.
+As correções expressas mais recentes prevalecem: Diabolus, Sr. Prefeito e Sr. Registrador. O auxiliar é referido apenas como Sr. Afeto. Não introduzir nomes alternativos para esses personagens. Esquece-o-Bem é o novo registrador, nomeado depois da destituição do antigo.
 
-As grafias PT-BR indicadas pelo usuário estão fixadas em nomes-canonicos.json e não devem ser substituídas por sinônimos.
+A montagem utiliza as gravuras da edição anterior, sem regenerar personagens ou cenários. Os quadros mantêm sua ordem; somente a distribuição entre as pranchas e as legendas foram alteradas. As legendas são texto vetorial no PDF, e o site exibe a renderização dessa mesma composição.
 
-| Prancha | Páginas do PDF | Acontecimento |
-| --- | --- | --- |
-| 01 | 8 | Aclamação de Diábolo e posse do castelo |
-| 02 | 8 | Destituição do prefeito e do registrador; torre diante das janelas |
-| 03 | 8–9 | Voz, corrupção e desmoralização do Sr. Registrador |
-| 04 | 9–10 | Inconstância, perseguição e preservação do Sr. Registrador |
-| 05 | 10–11 | Aliança de Vontade Seja Feita; cargos, juramento e rejeição da lei |
-| 06 | 11 | Sr. Afeto, Afeto-Vil, Luxúria-Carnal e seus seis filhos |
-| 07 | 12 | Imagem de Shaddai desfigurada; imagem de Diábolo; destruição das leis |
-| 08 | 12–13 | Editos, Lorde Concupiscência e Esquece-o-Bem |
-| 09 | 13 | Os treze conselheiros e seus parentes nos demais cargos |
-| 10 | 13 | Fortes Desafio, Meia-Noite e Doce Pecado; falsa segurança do tirano |
+| Prancha | Quadros | Páginas do PDF de referência | Sequência |
+| --- | --- | --- | --- |
+| 01 | 3 | 8 | Governo e castelo entregues a Diabolus |
+| 02 | 5 | 8 | Guarnição, destituição dos oficiais e casa escurecida |
+| 03 | 2 | 8–9 | Conhecimento da lei e advertência do Sr. Registrador |
+| 04 | 4 | 8–10 | Corrupção, descrédito e mentira contra o Sr. Registrador |
+| 05 | 5 | 9–11 | Perseguição, casa protegida e juramento de Vontade Seja Feita |
+| 06 | 5 | 10–11 | Rejeição da lei e família do Sr. Afeto |
+| 07 | 1 | 12 | Desfiguração da imagem de Shaddai e destruição das leis |
+| 08 | 5 | 12–13 | Editos, novos governantes e escolha do conselho |
+| 09 | 3 | 13 | Os treze conselheiros e seus parentes nos demais cargos |
+| 10 | 1 | 13 | Três fortalezas e falsa segurança de Diabolus |
 
-A casa do Sr. Registrador tem comportas capazes de inundar os arredores. A prancha 04 mostra essa capacidade, sem inventar uma inundação executada nesse momento.
+A fonte principal é o PDF fornecido pelo usuário, La guerra santa, tradução de Santiago Escuain, páginas físicas 8–13; a complementar é o original inglês de John Bunyan. A divisão numérica do PDF difere dos capítulos desta HQ.
 
-A referência da descendência na prancha 06 segue o PDF: as filhas se casam e têm muitos descendentes. Os filhos e as filhas conservam os nomes indicados pelo usuário.
+A casa do Sr. Registrador possui comportas capazes de inundar os arredores. A montagem conserva a água calma e as comportas fechadas, sem inventar uma inundação executada.
 
-A notícia levada à corte de Shaddai é matéria posterior ao trecho utilizado; não há cena de chegada dos exércitos de Emanuel neste capítulo.
-
-As pranchas 07 e 10 mantêm uma única imagem por página, conforme orientação do usuário.
+As filhas do Sr. Afeto se casam e têm muitos descendentes. Os seis filhos e filhas conservam os nomes solicitados. A chegada da notícia à corte de Shaddai pertence ao trecho posterior e não aparece neste capítulo.

@@ -1,9 +1,11 @@
-Use case: text-localization. Make a precise editorial lettering correction to the PROVIDED finished comic plate of John Bunyan's A GUERRA SANTA. The user supplied the book and an authoritative Portuguese character-name list. All text MUST be in BRAZILIAN PORTUGUESE and copied EXACTLY from the final captions below; do not replace a proper name by a synonym, Spanish form, English form or a new translation.
-Preserve the existing extraordinary nineteenth-century black and white engraving artwork, character faces and costumes, Gothic architecture, fine crosshatching and ivory caption boxes. Preserve the page's existing PORTRAIT ONE-IMAGE FULL-PAGE composition, absolutely no comic grid or divisions. The dragon-headed bat-winged tyrant is called DIÁBOLO, not Diabolus. The armored human noble is VONTADE SEJA FEITA, not Vontade Própria. Sr. Registrador and Sr. Consciência are the same elderly man. Lorde Prefeito and Lorde Entendimento are the same elderly man. Sr. Afeto and Afeto-Vil are the same human character. Luxúria-Carnal is the adult daughter of Sr. Mente.
-Do not add characters or change the action. Keep lettering beautiful classic black book serif, large enough to read, accents and hyphens precise, no cropped text. Adjust each ivory caption box height just enough to fit the final text without obscuring faces. Top margin EXACTLY: "A GUERRA SANTA · CAPÍTULO II" and "10 · AS TRÊS FORTALEZAS".
-Replace ALL existing caption text with these FOUR exact final narration texts, in reading order:
-1. "Junto ao Portão do Olho, ergueu o Forte Desafio, governado por Ódio-a-Deus. Sua função era dominar a cidade e impedir que ela conhecesse seu antigo Rei."
-2. "Perto do velho castelo, construiu o Forte Meia-Noite, sob Não-Amante-da-Luz. Ele impediria Alma Humana de conhecer verdadeiramente a si mesma."
-3. "Na praça do mercado, levantou o Forte Doce Pecado, governado por Ama-a-Carne. Por ele, mantinha a cidade afastada de todo desejo de bem."
-4. "Com o castelo guarnecido, os cargos substituídos, as imagens e as leis trocadas, Diábolo julgou-se seguro contra Shaddai ou seu Filho."
-Change only the lettering; preserve all illustrations and the existing page layout.
+PRANCHA 10 · As três fortalezas
+Montagem da arte existente. 1 quadro(s). Preservar a ordem abaixo.
+Nomes exclusivos: Diabolus, Sr. Prefeito, Sr. Registrador, Sr. Afeto.
+
+1. Junto ao Portão do Olho, ergueu o Forte Desafio, governado por Ódio-a-Deus. Sua função era dominar a cidade e impedir que ela conhecesse seu antigo Rei.
+
+2. Perto do velho castelo, construiu o Forte Meia-Noite, sob Não-Amante-da-Luz. Ele impediria Alma Humana de conhecer verdadeiramente a si mesma.
+
+3. Na praça do mercado, levantou o Forte Doce Pecado, governado por Ama-a-Carne. Por ele, mantinha a cidade afastada de todo desejo de bem.
+
+4. Com o castelo guarnecido, os cargos substituídos, as imagens e as leis trocadas, Diabolus julgou-se seguro contra Shaddai ou seu Filho.

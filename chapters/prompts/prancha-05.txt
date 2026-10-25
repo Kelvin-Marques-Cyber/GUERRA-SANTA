@@ -1,9 +1,13 @@
-Use case: text-localization. Make a precise editorial lettering correction to the PROVIDED finished comic plate of John Bunyan's A GUERRA SANTA. The user supplied the book and an authoritative Portuguese character-name list. All text MUST be in BRAZILIAN PORTUGUESE and copied EXACTLY from the final captions below; do not replace a proper name by a synonym, Spanish form, English form or a new translation.
-Preserve the existing extraordinary nineteenth-century black and white engraving artwork, character faces and costumes, Gothic architecture, fine crosshatching and ivory caption boxes. Preserve the page's existing LANDSCAPE four-panel layout. The dragon-headed bat-winged tyrant is called DIÁBOLO, not Diabolus. The armored human noble is VONTADE SEJA FEITA, not Vontade Própria. Sr. Registrador and Sr. Consciência are the same elderly man. Lorde Prefeito and Lorde Entendimento are the same elderly man. Sr. Afeto and Afeto-Vil are the same human character. Luxúria-Carnal is the adult daughter of Sr. Mente.
-Do not add characters or change the action. Keep lettering beautiful classic black book serif, large enough to read, accents and hyphens precise, no cropped text. Adjust each ivory caption box height just enough to fit the final text without obscuring faces. Top margin EXACTLY: "A GUERRA SANTA · CAPÍTULO II" and "05 · O JURAMENTO DE VONTADE SEJA FEITA".
-Replace ALL existing caption text with these FOUR exact final narration texts, in reading order:
-1. "Vontade Seja Feita era nobre, forte e resoluto. Orgulhoso de seus privilégios, preferiu governar sob Diábolo; já fora dos primeiros a apoiar a abertura dos portões."
-2. "Jurou fidelidade ao tirano e negou dever serviço a Shaddai. Foi nomeado capitão do castelo, governador dos muros e guardião dos portões. Nada se faria sem ele."
-3. "O Sr. Mente tornou-se seu secretário. Quando Vontade Seja Feita viu os velhos pergaminhos da lei de Shaddai que ele guardava, lançou-os para trás das costas."
-4. "Odiava o Sr. Registrador, mas não podia alcançar as leis que ele guardava. Nem uma vela em casa de Lorde Entendimento suportava. Pelas ruas, exaltava Diábolo e fazia o mal sem ordem."
-Change only the lettering; preserve all illustrations and the existing page layout.
+PRANCHA 05 · A resistência e o juramento
+Montagem da arte existente. 5 quadro(s). Preservar a ordem abaixo.
+Nomes exclusivos: Diabolus, Sr. Prefeito, Sr. Registrador, Sr. Afeto.
+
+1. As palavras do tirano acendiam a fúria contra o velho. Alguns queriam destruí-lo e desejavam que ele morasse a mil milhas dali.
+
+2. O Sr. Registrador permaneceu; o narrador só podia explicar isso pelo poder e sabedoria de Shaddai. Sua casa, forte como um castelo, tinha comportas capazes de inundar os arredores.
+
+3. Vontade Seja Feita era nobre, forte e resoluto. Orgulhoso de seus privilégios, preferiu governar sob Diabolus; já fora dos primeiros a apoiar a abertura dos portões.
+
+4. Jurou fidelidade ao tirano e negou dever serviço a Shaddai. Foi nomeado capitão do castelo, governador dos muros e guardião dos portões. Nada se faria sem ele.
+
+5. O Sr. Mente tornou-se seu secretário. Quando Vontade Seja Feita viu os velhos pergaminhos da lei de Shaddai que ele guardava, lançou-os para trás das costas.

@@ -1,5 +1,5 @@
 {
-  "note": "Os nomes indicados pelo usuário têm precedência. Os demais são equivalências em PT-BR conferidas diretamente no PDF enviado, páginas 8–13. Não atribuir essa lista inteira a uma edição PT-BR publicada que não foi fornecida.",
+  "note": "As correções mais recentes do usuário prevalecem: Diabolus, Sr. Prefeito e Sr. Registrador. Cada personagem tem um único nome na HQ; o auxiliar é referido somente como Sr. Afeto. As colunas de origem servem apenas à conferência da tradução.",
   "characters": [
     {
       "english": "Shaddai",
@@ -9,9 +9,9 @@
     },
     {
       "english": "Diabolus",
-      "spanishPdf": "Diábolo",
-      "ptBR": "Diábolo",
-      "basis": "grafia indicada pelo usuário"
+      "spanishPdf": "Diabolus",
+      "ptBR": "Diabolus",
+      "basis": "correção expressa do usuário"
     },
     {
       "english": "Emmanuel",
@@ -92,28 +92,16 @@
       "basis": "grafia indicada pelo usuário"
     },
     {
-      "english": "Lord Mayor",
-      "spanishPdf": "Lord Alcalde",
-      "ptBR": "Lorde Prefeito",
-      "basis": "grafia indicada pelo usuário"
+      "english": "Lord Mayor / Lord Understanding",
+      "spanishPdf": "Lord Alcalde / Lord Entendimiento",
+      "ptBR": "Sr. Prefeito",
+      "basis": "nome único solicitado pelo usuário"
     },
     {
-      "english": "Lord Understanding",
-      "spanishPdf": "Lord Entendimiento",
-      "ptBR": "Lorde Entendimento",
-      "basis": "grafia indicada pelo usuário"
-    },
-    {
-      "english": "Mr. Recorder",
-      "spanishPdf": "Sr. Archivero",
+      "english": "Mr. Recorder / Mr. Conscience",
+      "spanishPdf": "Sr. Archivero / Sr. Conciencia",
       "ptBR": "Sr. Registrador",
-      "basis": "grafia indicada pelo usuário"
-    },
-    {
-      "english": "Mr. Conscience",
-      "spanishPdf": "Sr. Conciencia",
-      "ptBR": "Sr. Consciência",
-      "basis": "grafia indicada pelo usuário"
+      "basis": "nome único solicitado pelo usuário"
     },
     {
       "english": "Mr. Mind",
@@ -122,16 +110,10 @@
       "basis": "grafia indicada pelo usuário"
     },
     {
-      "english": "Mr. Affection",
-      "spanishPdf": "Sr. Afecto",
+      "english": "Mr. Affection / Vile-Affection",
+      "spanishPdf": "Sr. Afecto / Vil-Afecto",
       "ptBR": "Sr. Afeto",
-      "basis": "grafia indicada pelo usuário"
-    },
-    {
-      "english": "Vile-Affection",
-      "spanishPdf": "Vil-Afecto",
-      "ptBR": "Afeto-Vil",
-      "basis": "grafia indicada pelo usuário"
+      "basis": "um único nome por personagem, conforme revisão solicitada"
     },
     {
       "english": "Carnal-Lust",
@@ -302,18 +284,10 @@
       "basis": "equivalência em PT-BR do PDF fornecido"
     }
   ],
-  "sameCharacterGroups": [
-    [
-      "Lorde Prefeito",
-      "Lorde Entendimento"
-    ],
-    [
-      "Sr. Registrador",
-      "Sr. Consciência"
-    ],
-    [
-      "Sr. Afeto",
-      "Afeto-Vil"
-    ]
+  "canonicalNames": [
+    "Diabolus",
+    "Sr. Prefeito",
+    "Sr. Registrador",
+    "Sr. Afeto"
   ]
 }
